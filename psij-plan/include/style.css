@@ -69,9 +69,8 @@ body {
     font-family: Arial, sans-serif;
     
     font-size: 11pt;
-    background: pink
-    /* color: #797979; */
-    color: greenyellow;
+    background: #ffffff;
+    color: #797979;
 }
 h1, h2, h3, p .label {
 	font-family: Tahoma, Geneva, sans-serif sans-serif;
